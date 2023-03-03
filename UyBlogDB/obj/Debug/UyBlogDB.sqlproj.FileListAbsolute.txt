@@ -1,0 +1,10 @@
+C:\Users\james\OneDrive\Desktop\UyLE2\UyBlogDB\bin\Debug\UyBlogDB.dacpac
+C:\Users\james\OneDrive\Desktop\UyLE2\UyBlogDB\bin\Debug\UyBlogDB.dll
+C:\Users\james\OneDrive\Desktop\UyLE2\UyBlogDB\bin\Debug\UyBlogDB.pdb
+C:\Users\james\OneDrive\Desktop\UyLE2\UyBlogDB\obj\Debug\UyBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\james\OneDrive\Desktop\UyLE2\UyBlogDB\obj\Debug\Model.xml
+C:\Users\james\OneDrive\Desktop\UyLE2\UyBlogDB\obj\Debug\refactor.xml
+C:\Users\james\OneDrive\Desktop\UyLE2\UyBlogDB\obj\Debug\postdeploy.sql
+C:\Users\james\OneDrive\Desktop\UyLE2\UyBlogDB\obj\Debug\predeploy.sql
+C:\Users\james\OneDrive\Desktop\UyLE2\UyBlogDB\obj\Debug\UyBlogDB.dll
+C:\Users\james\OneDrive\Desktop\UyLE2\UyBlogDB\obj\Debug\UyBlogDB.pdb
